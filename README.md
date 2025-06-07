@@ -15,7 +15,7 @@ I currently focus on visual mamba with wide applications including
 ## Surveys 
 - [2025] A Survey on Mamba Architecture for Vision Applications, arXiv [[Paper](https://arxiv.org/abs/2502.07161)] 
 - [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)] [[Code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
-- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2505.00630)] [[Code](https://arxiv.org/abs/2404.18861)]
+- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2404.18861)] 
 
 
 
