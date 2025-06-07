@@ -1,9 +1,27 @@
-# Mamba
+# Visual Mamba
+
+I currently focus on visual mamba with wide applications including
+- [Surveys](#Surveys)
+- [Semantic Segmentation](#Semantic-Segmentation)
 
 
   
+  
 <strong> Last Update: 2025/06/07 </strong>
 
+
+<a name="Surveys" />
+
+## Surveys 
+- [2025] A Survey on Mamba Architecture for Vision Applications, arXiv [[Paper](https://arxiv.org/abs/2502.07161)] 
+- [2024] Vision Mamba: A Comprehensive Survey and Taxonomy, arXiv [[Paper](https://arxiv.org/abs/2405.04404)] [[Code](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)]
+- [2024] Visual Mamba: A Survey and New Outlooks, arXiv [[Paper](https://arxiv.org/abs/2505.00630)] [[Code](https://arxiv.org/abs/2404.18861)]
+
+
+
+<a name="Semantic—Segmentation" />
+
+## Semantic Segmentation
 
 - [2025] Vision Mamba in Remote Sensing: A Comprehensive Survey of Techniques, Applications and Outlook, arXiv [[Paper](https://arxiv.org/abs/2505.00630)] [[Code](https://github.com/BaoBao0926/Awesome-Mamba-in-Remote-Sensing)]
 - [2025] U-Shape Mamba: State Space Model for Faster Diffusion, CVPR [[Paper](https://arxiv.org/abs/2504.13499)]  [[Code](https://github.com/ErgastiAlex/U-Shape-Mamba)]
